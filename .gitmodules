@@ -1,0 +1,3 @@
+[submodule "downloaddata/download_data_for_sound_of_pixel_paper/MUSIC_dataset"]
+	path = downloaddata/download_data_for_sound_of_pixel_paper/MUSIC_dataset
+	url = https://github.com/roudimit/MUSIC_dataset.git
